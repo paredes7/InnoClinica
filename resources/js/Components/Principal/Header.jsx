@@ -83,8 +83,8 @@ export default function Header() {
                     className="flex items-center transform transition duration-300 hover:scale-105 hover:brightness-110"
                 >
                     <img
-                        src="https://res.cloudinary.com/dcyx3nqj5/image/upload/v1761103015/samples/ecommerce/shoes.png"
-                        alt="Tecca Logo"
+                        src="https://res.cloudinary.com/dcyx3nqj5/image/upload/v1769825946/Clinica2-removebg-preview_hci5hj.png"
+                        alt="InnoClinica Logo"
                         className="h-14 md:h-20 object-contain w-auto"
                     />
                 </a>
